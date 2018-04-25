@@ -1,0 +1,12 @@
+*{
+            margin: 0;
+            padding: 0;
+        }
+        .all{
+            background-image: url(../img/bg.6346cf07.png);
+            height:100%;
+            width:7.5rem;
+        }
+        .all img{
+            width:7.5rem;
+        }
